@@ -5,5 +5,5 @@
 Para rodar esse Projeto na sua máquina, Por Favoe Digite:
 
 ...
-npm install react
+node app.js
 ...
